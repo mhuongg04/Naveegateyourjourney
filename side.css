@@ -1,0 +1,49 @@
+
+/* product */
+/* hdsd */
+.product__hdsd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product__hdsd--tittle{
+    color: #103558;
+    font-size: 48px;
+    font-family: var(--font2);
+    font-weight: 700;
+    word-wrap: break-word;
+    text-align: center;
+    margin: 150px 50px 50px 50px;
+}
+ .product__hdsd--video{
+    width: 70%;
+    height: 70%;
+    align-items: center;
+ }
+
+ /* benefit */
+ .product__benefit{
+    display: flex;
+    margin-top: 150px;
+    flex-direction: column;
+ }
+
+ .product__benefit--tittle{
+    color: #103558;
+    font-size: 48px;
+    font-family: var(--font2);
+    font-weight: 700;
+    word-wrap: break-word;
+    text-align: center;
+ }
+
+ .product__benefit--list{
+    color: #527BC9;
+    font-size: 32px;
+    font-family: var(--font1);
+    font-weight: 600;
+    word-wrap: break-word;
+    margin-left: 230px;
+    margin-bottom: 130px;
+ }
